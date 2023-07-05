@@ -16,6 +16,7 @@
   GM_addStyle(".markdown-body {font-size: 20px}");
   GM_addStyle("#readme strong {color: #ffa657}");
   GM_addStyle("#readme .del-grey {opacity: 0.6}");
+  GM_addStyle("#readme p.hidden {color: #0D1117}"); // TODO bgColor
 
   const pg = document.querySelector('#readme');
 
@@ -24,7 +25,7 @@
     s.textContent = d.textContent;
     s.className = 'del-grey';
     d.replaceWith(s);
-  })
+  });
   
   pg.querySelectorAll('strong').forEach(s => {
     // original data in highlight
@@ -43,21 +44,48 @@
   });
 
   pg.querySelectorAll('p').forEach((p, key) => {
-    console.log(key, p);
+    if (key % 2 === 1) {
+      p.classList.add('hidden');
+      p.addEventListener('click', event => {
+        p.classList.toggle('hidden');
+        event.stopPropagation();
+      });
+    }
   });
 
-  let toggle = true;
+  let counter = 0;
 
   document.body.addEventListener('click', () => {
-    toggle = !toggle;
-    if (toggle) {
+    counter += 1;
+    if (counter % 3 === 0) {
       pg.querySelectorAll('strong').forEach(s => {
         s.textContent = s.getAttribute('data-x');
-      })
-    } else {
+      });
+      pg.querySelectorAll('p').forEach((p, key) => {
+        if (key % 2 === 1) {
+          p.classList.add('hidden');
+        }
+      });
+    } 
+    if (counter % 3 === 1) {
       pg.querySelectorAll('strong').forEach(s => {
         s.textContent = s.getAttribute('data-y');
-      })
+      });
+      pg.querySelectorAll('p').forEach((p, key) => {
+        if (key % 2 === 1) {
+          p.classList.add('hidden');
+        }
+      });
+    }
+    if (counter % 3 === 2) {
+      pg.querySelectorAll('strong').forEach(s => {
+        s.textContent = s.getAttribute('data-x');
+      });
+      pg.querySelectorAll('p').forEach((p, key) => {
+        if (key % 2 === 1) {
+          p.classList.remove('hidden');
+        }
+      });
     }
   });
 })();
