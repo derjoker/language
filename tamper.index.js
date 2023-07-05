@@ -15,8 +15,16 @@
   // Your code here...
   GM_addStyle(".markdown-body {font-size: 20px}");
   GM_addStyle("#readme strong {color: #ffa657}");
+  GM_addStyle("#readme .del-grey {opacity: 0.6}");
 
   const pg = document.querySelector('#readme');
+
+  pg.querySelectorAll('del').forEach(d => {
+    const s = document.createElement('span');
+    s.textContent = d.textContent;
+    s.className = 'del-grey';
+    d.replaceWith(s);
+  })
   
   pg.querySelectorAll('strong').forEach(s => {
     // original data in highlight
