@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yi Language
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
+// @version      0.2.0
 // @description  try to take over the world!
 // @author       derjoker
 // @match        https://github.com/derjoker/language/*
