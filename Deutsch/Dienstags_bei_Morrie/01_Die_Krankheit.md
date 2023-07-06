@@ -10,9 +10,13 @@
 
 »Ja, das werden Sie«, sagte der Arzt. »Es tut mir sehr leid.«
 
-他同莫里和夏洛特坐了将近两小时，耐心地回答他们的问题。当他们**离去**(gehen)时，他给了他们一些有关ALS的**资料**(die Information)：几本小册子，似乎他们是在**开**(eröffnen)银行账户。
+他同莫里和夏洛特坐了将近两小时，耐心地回答他们的问题。
 
-Er saß fast zwei Stunden lang mit Morrie und Charlotte zusammen und beantwortete geduldig ihre Fragen. Als sie gingen, gab der Arzt ihnen einige Informationen über ALS mit auf den Weg, kleine Broschüren, als wollten sie ein Bankkonto eröffnen.
+Er saß fast zwei Stunden lang mit Morrie und Charlotte zusammen und beantwortete geduldig ihre Fragen.
+
+当他们**离去**(gehen)时，他给了他们一些有关ALS的**资料**(die Information)：几本小册子，似乎他们是在**开**(eröffnen)银行账户。
+
+Als sie gingen, gab der Arzt ihnen einige Informationen über ALS mit auf den Weg, kleine Broschüren, als wollten sie ein Bankkonto eröffnen.
 
 外面阳光朗照，人们**忙着**(nachgehen)各自的**事情**(das Geschäft)。一位妇女**急匆匆地**(hektisch)往**停车收费机**(die Parkuhr)里**投**(stecken)钱，另一个拎着食品杂货走过。
 
