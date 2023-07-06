@@ -1,6 +1,6 @@
 ## Die Krankheit
 
-### 2023-07-04
+### 人类的悲欢并不相通
 
 “那么我快死了？”
 
@@ -22,7 +22,7 @@ Draußen schien die Sonne, und die Leute gingen ihren Geschäften nach. Eine Fra
 
 Eine Million Gedanken gingen Charlotte durch den Kopf: Wieviel Zeit haben wir noch? Wie werden wir damit fertig werden? Wie werden wir die Rechnungen bezahlen?
 
-### 2023-07-05
+### 最后一课
 
 1994年的秋天，莫里**去**(betreten)坐落在山坡上的布兰代斯校园上他最后的一堂**课**(Seminar)。
 
@@ -47,3 +47,33 @@ Wegen des Stocks dauerte es eine Weile, bis er seinen Stuhl erreichte.
 他**终于**(schließlich)坐了下去，从鼻梁上取下眼镜，**望着**(schauen)一张张在一片死寂中注视着他的年轻的**脸**(das Gesicht)。
 
 Schließlich setzte er sich, zog sich die Brille von der Nase und schaute in die jungen Gesichter, die schweigend zurückstarrten.
+
+### 直面死亡
+
+我就这样**枯竭**(verwelken)下去直到消亡？还是不虚度**剩下**(verbleiben)的时光？他问自己。
+
+Werde ich jetzt nach und nach verwelken und verschwinden, oder werde ich das Beste aus der Zeit machen, die mir verbleibt? hatte er sich gefragt.
+
+他不甘枯竭而死。他将~~勇敢地去面对死亡~~[不惧死亡]。
+
+Er würde nicht verwelken. Er würde sich nicht *schämen* zu sterben.
+
+~~他要把死亡作为他最后的一门课程，作为他生活的主要课题。~~
+
+Statt dessen war er entschlossen, den Tod zu seinem letzten Projekt zu machen, zum zentralen Aspekt der Zeit, die ihm verblieb.
+
+**既然**(da)每个人都有一死，~~~他为何不能死有所值呢？~~
+
+Da jeder einmal sterben würde, könnte er anderen von großem Nutzen sein, nicht wahr?
+
+他可以让别人去研究。他可以成为一本人的**教科书**(das Lehrbuch)。
+
+Er könnte sich zu Forschungszwecken zur Verfügung stellen. Ein menschliches Lehrbuch.
+
+研究我缓慢而耐心的死亡过程。
+
+Studier mich, wie ich langsam und geduldig sterbe.
+
+观察在我身上发生的一切。
+
+Beobachte, was mit mir geschieht.
