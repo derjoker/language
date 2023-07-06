@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yi Language
 // @namespace    http://tampermonkey.net/
-// @version      0.2.0
+// @version      0.3.0
 // @description  try to take over the world!
 // @author       derjoker
 // @match        https://github.com/derjoker/language/*
@@ -16,7 +16,7 @@
   GM_addStyle(".markdown-body {font-size: 20px}");
   GM_addStyle("#readme strong {color: #ffa657}");
   GM_addStyle("#readme .del-grey {opacity: 0.6}");
-  GM_addStyle("#readme p.hidden {color: #0D1117}"); // TODO bgColor
+  GM_addStyle("#readme p.hidden {opacity: 0}");
 
   const pg = document.querySelector('#readme');
 
